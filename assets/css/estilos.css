@@ -10,6 +10,9 @@ body {
   background-size: cover;
   background-position: left;
 }
+.navbar {
+  background-color:  rgb(255, 170, 251);
+}
 
 /* Mis trabajos */
 
@@ -19,7 +22,9 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+#Mis-trabajos {
+  background-color: rgb(255, 170, 251);
+}
 /* Contacto */
 
 #Contacto form label {
@@ -36,4 +41,7 @@ body {
     width: 100px;
   }
 
+}
+footer {
+  background-color: rgb(255, 170, 251);
 }
